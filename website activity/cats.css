@@ -1,0 +1,18 @@
+header div { 
+    background-color: coral;
+    font-size: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    font-size: 1rem;
+}
+
+@media screen and (min-width: 976px) {
+    
+}
+
