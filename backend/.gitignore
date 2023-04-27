@@ -1,0 +1,2 @@
+***/node_modules
+# ^this is saying that wherever the node modules are, they're going to be ignore
