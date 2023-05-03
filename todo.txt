@@ -1,0 +1,3 @@
+-Create Table (postgres)
+-Create Database (postgres)
+-Link "username and password" to databse
